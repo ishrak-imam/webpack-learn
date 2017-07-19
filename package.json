@@ -1,0 +1,30 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishrak-imam/webpack-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishrak-imam/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/ishrak-imam/webpack-learn#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
